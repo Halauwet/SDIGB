@@ -3,7 +3,7 @@
 
 ## Sistem Database dan Informasi Gempabumi PGR IX Ambon
 
-Earthquake Information and Databases - Regional Seismic Center IX - Ambon
+Earthquake Information and Database System - Regional Seismic Center IX - Ambon
 
 
 
